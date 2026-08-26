@@ -1,17 +1,13 @@
 <div align="center">
 
-  <!-- HERO BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=080808&stroke=D4AF37&strokeWidth=2&height=160&section=header&text=SHIVANI%20STALIN&fontSize=42&fontColor=D4AF37&animation=twinkling&fontAlignY=45" width="100%" alt="Shivani Stalin Banner" />
+  <!-- GLOWING GOLD HERO BANNER -->
+  <img src="assets/hero-banner.svg" width="100%" alt="SHIVANI STALIN - Luxury Developer Brand" />
 
   <br/><br/>
 
-  <!-- SUBTITLE & SLOGAN -->
-  <h3><code>Developer • Problem Solver • Curious Builder</code></h3>
-  <p><i>Turning ideas into interactive digital experiences.</i></p>
-
   <!-- DYNAMIC TYPING ANIMATION -->
   <a href="https://github.com/shivanistalin2006-dot">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=D4AF37&background=08080800&center=true&vCenter=true&width=600&height=45&lines=Developer+%26+Problem+Solver;Building+Ideas+Into+Digital+Experiences;Code.+Create.+Explore.+Solve.;Always+Learning.+Always+Building." alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=D4AF37&background=08080800&center=true&vCenter=true&width=650&height=45&lines=Developer+%26+Problem+Solver;Building+Ideas+Into+Digital+Experiences;Code.+Create.+Explore.+Solve.;Always+Learning.+Always+Building." alt="Typing Animation" />
   </a>
 
 </div>
@@ -35,28 +31,20 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-I am **Shivani Stalin**, a B.Tech Information Technology student and aspiring software developer passionate about building applications that are not only robust and functional, but also interactive, meaningful, and visually engaging.
+I am **Shivani Stalin**, a B.Tech Information Technology student and software developer focused on crafting digital products that combine clean programming principles, algorithmic logic, and captivating user experiences.
 
-- ☕ **Core Focus:** Java, Object-Oriented Design, and Software Fundamentals
-- 🌐 **Web Engineering:** Modern JavaScript, HTML5/CSS3, React, and Responsive Design
-- 🧠 **Problem Solving:** Data Structures & Algorithms (DSA) and Logical Thinking
-- 🎨 **Creative Tech:** UI/UX Design, Interactive Canvas, and Web Experiences
-- 🗺️ **Specialized Domain:** Geospatial Applications, GIS, and Remote Sensing Analysis
+- ☕ **Core Engineering:** Java & Object-Oriented Architecture
+- 🌐 **Modern Web:** JavaScript, HTML5/CSS3, React & Responsive UI
+- 🧠 **Problem Solving:** Data Structures & Algorithms (DSA)
+- 🎨 **Creative Tech:** Interactive Canvas, UI/UX & Web Animation
+- 🗺️ **Geospatial Domain:** GIS, Spatial Analytics & Remote Sensing
 
 <br/>
 
 <!-- DIGITAL DNA -->
-## 🧬 MY DIGITAL DNA
-
-```text
-CODE     █████████░ 90%
-CREATE   ██████████ 100%
-EXPLORE  ████████░░ 80%
-SOLVE    █████████░ 90%
-LEARN    ██████████ 100%
-
-✦ CURIOSITY  ✦ CREATIVITY  ✦ COURAGE
-```
+<div align="center">
+  <img src="assets/digital-dna.svg" width="100%" alt="My Digital DNA" />
+</div>
 
 <br/>
 
@@ -95,7 +83,7 @@ LEARN    ██████████ 100%
     <td width="50%" valign="top">
       <h3 align="left">🎮 LuckyKit</h3>
       <p><b>A premium cyber arcade experience.</b></p>
-      <p>A curated collection of interactive web games designed with a modern, responsive gaming interface and fluid user interactions.</p>
+      <p>A curated collection of interactive web games designed with a modern gaming aesthetic and fluid user interactions.</p>
       <p><b>Tech Stack:</b> <code>HTML</code> • <code>CSS</code> • <code>JavaScript</code> • <code>Bootstrap</code></p>
       <a href="https://github.com/shivanistalin2006-dot/LuckyKit"><b>Explore LuckyKit →</b></a>
     </td>
@@ -131,49 +119,24 @@ LEARN    ██████████ 100%
 ## 📊 GITHUB COMMAND CENTER
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivanistalin2006-dot&show_icons=true&theme=transparent&title_color=D4AF37&text_color=E0E0E0&icon_color=D4AF37&border_color=A88920&bg_color=080808&hide_border=false" width="48%" alt="Shivani Stalin GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivanistalin2006-dot&show_icons=true&theme=transparent&title_color=D4AF37&text_color=E0E0E0&icon_color=D4AF37&border_color=D4AF37&bg_color=080808&hide_border=false" width="48%" alt="Shivani Stalin GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivanistalin2006-dot&layout=compact&theme=transparent&title_color=D4AF37&text_color=E0E0E0&icon_color=D4AF37&border_color=A88920&bg_color=080808&hide_border=false" width="48%" alt="Top Languages" />
-  
-  <br/><br/>
-  
-  <img src="https://streak-stats.demolab.com?user=shivanistalin2006-dot&theme=dark&background=080808&border=A88920&stroke=8B0000&ring=D4AF37&fire=8B0000&currStreakNum=D4AF37&sideNums=D4AF37&sideTitle=A88920&dates=E0E0E0" width="97%" alt="Contribution Streak" />
-</div>
-
-<br/>
-
-<!-- CONTRIBUTION ACTIVITY -->
-## 🔥 CONTRIBUTION ACTIVITY
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/D4AF37/shivanistalin2006-dot" width="100%" alt="Shivani Stalin GitHub Contribution Chart" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivanistalin2006-dot&layout=compact&theme=transparent&title_color=D4AF37&text_color=E0E0E0&icon_color=D4AF37&border_color=D4AF37&bg_color=080808&hide_border=false" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <!-- CURRENT MISSION -->
-## ⚡ CURRENT MISSION
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│ 🎯 LEVELING UP                                              │
-│                                                             │
-│ ☕ Java & Object-Oriented Programming                       │
-│ 🧠 Data Structures & Algorithms                             │
-│ 🌐 Full Stack Development                                   │
-│ 🗺️ Geospatial & Interactive Applications                   │
-│ 🚀 Building a portfolio of meaningful projects              │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+  <img src="assets/current-mission.svg" width="100%" alt="Current Mission and Roadmap" />
+</div>
 
 <br/>
 
 <!-- DEVELOPER PHILOSOPHY -->
-## 🏆 DEVELOPER PHILOSOPHY
-
-> ⚜️ **"I don't just want to write code that works.<br/>I want to build experiences that people remember."**
+<div align="center">
+  <img src="assets/developer-philosophy.svg" width="100%" alt="Developer Philosophy" />
+</div>
 
 <br/>
 

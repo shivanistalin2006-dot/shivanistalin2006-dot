@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="100%" height="100%">
+  <defs>
+    <radialGradient id="mission-bg" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#14110b" />
+      <stop offset="100%" stop-color="#050505" />
+    </radialGradient>
+
+    <linearGradient id="gold-text" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFE58F" />
+      <stop offset="50%" stop-color="#D4AF37" />
+      <stop offset="100%" stop-color="#A88920" />
+    </linearGradient>
+
+    <filter id="gold-glow-m">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      .m-title { font-family: 'Fira Code', monospace; font-size: 20px; font-weight: 700; fill: url(#gold-text); letter-spacing: 4px; filter: url(#gold-glow-m); }
+      .m-item { font-family: 'Inter', sans-serif; font-size: 15px; font-weight: 500; fill: #E0E0E0; letter-spacing: 1px; }
+      .m-bold { font-weight: 700; fill: #F5D76E; }
+    </style>
+  </defs>
+
+  <rect width="900" height="260" rx="14" fill="url(#mission-bg)" stroke="#D4AF37" stroke-width="1.2" opacity="0.95" />
+  
+  <text x="45" y="45" class="m-title">⚡ CURRENT MISSION &amp; ROADMAP</text>
+  <line x1="45" y1="60" x2="855" y2="60" stroke="#8B0000" stroke-width="1.5" opacity="0.6" />
+
+  <g transform="translate(45, 90)">
+    <!-- Bullet 1 -->
+    <circle cx="10" cy="5" r="4" fill="#D4AF37" filter="url(#gold-glow-m)" />
+    <text x="30" y="10" class="m-item"><tspan class="m-bold">Java Architecture:</tspan> Deepening Object-Oriented Programming &amp; Design Patterns</text>
+
+    <!-- Bullet 2 -->
+    <circle cx="10" cy="40" r="4" fill="#D4AF37" filter="url(#gold-glow-m)" />
+    <text x="30" y="45" class="m-item"><tspan class="m-bold">Core Mastery:</tspan> Advanced Data Structures &amp; Algorithmic Problem Solving</text>
+
+    <!-- Bullet 3 -->
+    <circle cx="10" cy="75" r="4" fill="#D4AF37" filter="url(#gold-glow-m)" />
+    <text x="30" y="80" class="m-item"><tspan class="m-bold">Web Engineering:</tspan> Full-Stack Modern Web Applications &amp; Microservices</text>
+
+    <!-- Bullet 4 -->
+    <circle cx="10" cy="110" r="4" fill="#D4AF37" filter="url(#gold-glow-m)" />
+    <text x="30" y="115" class="m-item"><tspan class="m-bold">Geospatial Intelligence:</tspan> GIS, Remote Sensing &amp; Spatial Data Analytics</text>
+  </g>
+
+  <!-- Bottom Accent -->
+  <line x1="45" y1="230" x2="855" y2="230" stroke="#D4AF37" stroke-width="0.8" opacity="0.3" />
+</svg>

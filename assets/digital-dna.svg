@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="100%" height="100%">
+  <defs>
+    <radialGradient id="card-bg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#14110b" />
+      <stop offset="100%" stop-color="#050505" />
+    </radialGradient>
+
+    <linearGradient id="gold-bar-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A88920" />
+      <stop offset="50%" stop-color="#D4AF37" />
+      <stop offset="100%" stop-color="#FFF5C0" />
+    </linearGradient>
+
+    <linearGradient id="gold-text-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFE58F" />
+      <stop offset="50%" stop-color="#D4AF37" />
+      <stop offset="100%" stop-color="#A88920" />
+    </linearGradient>
+
+    <filter id="gold-glow-dna">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      .dna-title { font-family: 'Fira Code', monospace; font-size: 20px; font-weight: 700; fill: url(#gold-text-grad); letter-spacing: 4px; filter: url(#gold-glow-dna); }
+      .skill-label { font-family: 'Fira Code', monospace; font-size: 14px; font-weight: 600; fill: #D4AF37; letter-spacing: 2px; }
+      .skill-val { font-family: 'Fira Code', monospace; font-size: 14px; font-weight: 700; fill: #FFFFFF; }
+      .principle { font-family: 'Cinzel', 'Times New Roman', serif; font-size: 16px; font-weight: 700; fill: #F5D76E; letter-spacing: 6px; text-anchor: middle; filter: url(#gold-glow-dna); }
+    </style>
+  </defs>
+
+  <rect width="900" height="300" rx="14" fill="url(#card-bg)" stroke="#D4AF37" stroke-width="1.2" opacity="0.95" />
+  
+  <!-- Header -->
+  <text x="45" y="45" class="dna-title">🧬 MY DIGITAL DNA</text>
+  <line x1="45" y1="60" x2="855" y2="60" stroke="#8B0000" stroke-width="1.5" opacity="0.6" />
+
+  <!-- Skill 1: CODE 90% -->
+  <text x="45" y="98" class="skill-label">CODE</text>
+  <rect x="160" y="86" width="600" height="14" rx="7" fill="#151515" stroke="#333" stroke-width="1" />
+  <rect x="160" y="86" width="540" height="14" rx="7" fill="url(#gold-bar-grad)" filter="url(#gold-glow-dna)" />
+  <text x="780" y="98" class="skill-val">90%</text>
+
+  <!-- Skill 2: CREATE 100% -->
+  <text x="45" y="138" class="skill-label">CREATE</text>
+  <rect x="160" y="126" width="600" height="14" rx="7" fill="#151515" stroke="#333" stroke-width="1" />
+  <rect x="160" y="126" width="600" height="14" rx="7" fill="url(#gold-bar-grad)" filter="url(#gold-glow-dna)" />
+  <text x="780" y="138" class="skill-val">100%</text>
+
+  <!-- Skill 3: EXPLORE 80% -->
+  <text x="45" y="178" class="skill-label">EXPLORE</text>
+  <rect x="160" y="166" width="600" height="14" rx="7" fill="#151515" stroke="#333" stroke-width="1" />
+  <rect x="160" y="166" width="480" height="14" rx="7" fill="url(#gold-bar-grad)" filter="url(#gold-glow-dna)" />
+  <text x="780" y="178" class="skill-val">80%</text>
+
+  <!-- Skill 4: SOLVE 90% -->
+  <text x="45" y="218" class="skill-label">SOLVE</text>
+  <rect x="160" y="206" width="600" height="14" rx="7" fill="#151515" stroke="#333" stroke-width="1" />
+  <rect x="160" y="206" width="540" height="14" rx="7" fill="url(#gold-bar-grad)" filter="url(#gold-glow-dna)" />
+  <text x="780" y="218" class="skill-val">90%</text>
+
+  <!-- Principles Footer -->
+  <line x1="45" y1="245" x2="855" y2="245" stroke="#D4AF37" stroke-width="0.8" opacity="0.4" />
+  <text x="450" y="278" class="principle">✦ CURIOSITY  ✦ CREATIVITY  ✦ COURAGE</text>
+</svg>
