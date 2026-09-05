@@ -116,27 +116,12 @@ I am **Shivani Stalin**, a B.Tech Information Technology student and software de
 <br/>
 
 <!-- GITHUB COMMAND CENTER -->
-## 📊 GITHUB COMMAND CENTER & GOLD STREAK
+## 📊 GITHUB COMMAND CENTER
 
 <div align="center">
-  <!-- GOLD STREAK STATS -->
-  <img src="https://streak-stats.demolab.com?user=shivanistalin2006-dot&theme=dark&background=080808&border=D4AF37&stroke=8B0000&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=D4AF37&sideTitle=F5D76E&dates=E0E0E0" width="100%" alt="Gold Contribution Streak" />
-  
-  <br/><br/>
-
-  <!-- STATS & TOP LANGS -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivanistalin2006-dot&show_icons=true&theme=transparent&title_color=D4AF37&text_color=E0E0E0&icon_color=D4AF37&border_color=D4AF37&bg_color=080808&hide_border=false" width="48%" alt="Shivani Stalin GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivanistalin2006-dot&layout=compact&theme=transparent&title_color=D4AF37&text_color=E0E0E0&icon_color=D4AF37&border_color=D4AF37&bg_color=080808&hide_border=false" width="48%" alt="Top Languages" />
-</div>
-
-<br/>
-
-<!-- GOLD CONTRIBUTION ACTIVITY -->
-## 🔥 GOLD CONTRIBUTION ACTIVITY
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/D4AF37/shivanistalin2006-dot" width="100%" alt="Shivani Stalin Gold GitHub Contribution Chart" />
 </div>
 
 <br/>
